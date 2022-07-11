@@ -3,16 +3,16 @@
 </p> 
 <br>
 
-## [PROFFESIONAL INFORMATION](gh-dark-only)
+## [PROFFESIONAL INFORMATION](#gh-dark-mod-only)
 
 
-*Name = ["THE END"](#gh-light-mod-only)
+* Name = ["THE END"](#gh-light-mod-only)
 
-* Class = ["college"](gh-light-only)
+* Class = ["college"](#gh-light-mod-only)
 
-* Age = ["18"](gh-light-only)
+* Age = ["18"](#gh-light-mod-only)
 
-* Country = [" 🇮🇳 "](gh-light-only)
+* Country = [" 🇮🇳 "](#gh-light-mod-only)
 
-* State = ["MAHARASHTRA"](gh-light-only)
+* State = ["MAHARASHTRA"](#gh-light-mod-only)
  
