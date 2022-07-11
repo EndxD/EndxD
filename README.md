@@ -3,3 +3,14 @@
 </p> 
 <br>
 
+## [PROFFESIONAL INFORMATION](gh-dark-only)
+Name = "THE END"
+
+* Class = ["college"](gh-light-only)
+
+* Age = ["18"](gh-light-only)
+
+* Country = [" 🇮🇳 "](gh-light-only)
+
+* State = ["MAHARASHTRA"](gh-light-only)
+ 
