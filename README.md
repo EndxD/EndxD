@@ -6,7 +6,7 @@
 ## [PROFFESIONAL INFORMATION](gh-dark-only)
 
 
-*Name = ["THE END"](gh-light-only)
+*Name = ["THE END"](#gh-light-mod-only)
 
 * Class = ["college"](gh-light-only)
 
