@@ -4,7 +4,9 @@
 <br>
 
 ## [PROFFESIONAL INFORMATION](gh-dark-only)
-Name = "THE END"
+
+
+*Name = ["THE END"](gh-light-only)
 
 * Class = ["college"](gh-light-only)
 
